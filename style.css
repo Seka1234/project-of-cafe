@@ -1,0 +1,123 @@
+#home {
+    color: #fff;
+    font-family: cursive;
+    background-image: url('https://www.tooplate.com/templates/2076_zentro/images/home-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 95vh; 
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    margin-right: 0px;
+    background-color: white; 
+  }
+  
+  .btn {
+          margin-top: 15px;
+          padding: 10px 20px;
+          background-color: transparent; /* Прозорий фон кнопки */
+          color: #fff; /* Білий колір тексту кнопки */
+          border: 2px solid; /* Біла рамка */
+          border-radius: 5px; /* Округлені кути */
+          cursor: pointer; /* Курсор при наведенні */
+          transition: background-color 0.3s ease; /* Плавна анімація зміни кольору фону */
+          
+      }
+      .btn10:hover {
+        background-color: white;
+        color: black;
+}
+  .btn:hover {
+          background-color: rgba(255, 255, 255, 0.2); /* Прозоре затемнення при наведенні */
+      }
+  .btn2 {
+    margin-top: 0px;
+    margin-right: 50%;
+    padding: 10px 20px;
+    padding-bottom: 0px;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 25px;
+    color: black;
+    background-color: transparent; /* Прозорий фон кнопки */
+    border-color: transparent;
+    cursor: pointer; /* Курсор при наведенні */
+  }
+  
+  .collapse {
+  display: flex;
+  }
+  
+  .btn3, .btn4, .btn5, .btn6 {
+    margin-top: 0px;
+    padding: 15px;
+    justify-content: right;
+    margin-right: 0px;
+    padding-bottom: 0px;
+    font-family: 'arial';
+    font-size: 15px;
+    color: #777777;
+    background-color: transparent; /* Прозорий фон кнопки */
+    border-color: transparent;
+    cursor: pointer; /* Курсор при наведенні */
+  }
+  .btn3:hover {
+    color:black;  
+  } 
+  .btn4:hover {
+    color:black;
+  } 
+  .btn5:hover {
+    color:black;
+  } 
+  .btn6:hover {
+    color: black; 
+  }
+  
+    .heading {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  .line1 {
+    width: 11%;
+    margin-top: 0px;
+    margin-bottom: 55px;
+    border: none; /* Видаляємо стандартну лінію */
+    height: 2px; /* Встановлюємо висоту лінії */
+    background-color: #808080;
+  }
+
+.gallery {
+  padding-top: 52px;
+}
+h4 {
+  margin-bottom: 0px;
+ font-weight: bold;
+}
+h5 {
+  margin-top: 15px;
+  margin-bottom: 40px;
+  font-weight: lighter;
+}
+footer {
+  background: url(https://www.tooplate.com/templates/2076_zentro/images/footer-bg.jpg) 50% 0 repeat-y fixed;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  margin-bottom: 0px;
+}
+.btnn:hover {
+  color: black;
+  background-color: white;
+}

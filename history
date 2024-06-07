@@ -1,0 +1,35 @@
+<section id="gallery" style="width: 85%; margin: 0 auto; font-family: 'Comfortaa', sans-serif; font-size: 15px;">
+          <div class="container" style="display: flex; flex-wrap: nowrap; align-items: center;">         
+              <div class="wow" style="vertical-align: middle;">
+                <img src="https://www.tooplate.com/templates/2076_zentro/images/gallery-img1.jpg" alt="gallery img" width="80%" height="80%" style="object-fit: cover; margin-top: 10%; margin-left: 25%; padding-right: 55px; padding-left: 55px;">
+                <div>
+                  <h3 style="margin-top: 15px; margin-bottom: 0px; margin-left: 20%;">Lemon-Rosemary Prawn</h3>
+                  <span style="margin-top: 25px; margin-left: 25%;">Seafood / Shrimp / Lemon</span>
+                </div>
+                <img src="https://www.tooplate.com/templates/2076_zentro/images/gallery-img2.jpg" alt="gallery img" width="80%" height="80%" style="object-fit: cover; margin-top: 35px; margin-bottom: 10%; margin-left: 25%; padding-right: 55px; padding-left: 55px;">
+                <div>
+                  <h3 style="margin-left: 20%; margin-top: 15px; margin-bottom: 0px;">Lemon-Rosemary Vegetables</h3>
+                  <span style="margin-top: 25px; margin-left: 25%; margin-bottom: 10%;">Tomato / Rosemary / Lemon</span>
+                </div>
+              </div>
+              <div class="wow" style="vertical-align: middle;">
+                <img src="https://www.tooplate.com/templates/2076_zentro/images/gallery-img3.jpg" alt="gallery img" width="68%" height="68%" style="object-fit: cover; margin-left: 13%; padding-right: 55px; padding-left: 55px; margin-right: 0%;">
+                <div>
+                  <h3 style="margin-right: 0%; margin-left: 13%;">Lemon-Rosemary Bakery</h3>
+                  <span style="margin-right: 0%; margin-left: 13%;" >Bread / Rosemary / Orange</span>
+                </div>
+              </div>
+              <div class="wow" style="vertical-align: middle; margin-right: 13%;">
+                <img src="https://www.tooplate.com/templates/2076_zentro/images/gallery-img4.jpg" alt="gallery img" width="80%" height="80%" style="object-fit: cover; margin-right: 13%;">
+                <div>
+                  <h3 style="margin-top: 15px; margin-bottom: 0px; margin-right: 13%;">Lemon-Rosemary Salad</h3>
+                  <span style="margin-top: 25px; margin-right: 13%;">Chicken / Rosemary / Green</span>
+                </div>
+                <img src="https://www.tooplate.com/templates/2076_zentro/images/gallery-img5.jpg" alt="gallery img" width="80%" height="80%" style="object-fit: cover; margin-top: 35px; margin-right: 13%; "> 
+                <div>
+                  <h3 style="margin-right: 13%;">Lemon-Rosemary Pizza</h3>
+                  <span style=" margin-right: 13%;">Pasta / Rosemary / Green</span>
+                </div>
+              </div>
+          </div>
+        </section>
